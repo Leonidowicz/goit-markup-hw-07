@@ -1,2 +1,3 @@
 # goit-markup-hw-07
-Домашнее задание 06
+Домашнее задание 07
+https://leonidowicz.github.io/goit-markup-hw-07/
